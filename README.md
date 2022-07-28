@@ -1,6 +1,8 @@
 # CVRCCK-Docs
 Crowd-sourced documentation for CVR's CCK.
 
+Contributions are more than welcome. The official documentation doesn't contain extensive details or tutorials so feel free to add any information to here that you think is worth noting. The 3.3 folder contains the docs for v3.3 and will be fact checked when the CVR servers are more stable so we can test avatars.
+
 # Converting VRC Avatars to CVR
 Video How-To Guide: https://www.youtube.com/watch?v=S61XVSaG6Xs
 
